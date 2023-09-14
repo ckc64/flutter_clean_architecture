@@ -48,6 +48,7 @@ dependencies:
   flutter_hooks: ^0.20.1
   retrofit: ^4.0.1
   cached_network_image: ^3.2.3
+  ionicons: ^0.2.2
   
 
 dev_dependencies:
